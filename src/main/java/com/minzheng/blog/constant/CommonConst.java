@@ -4,7 +4,7 @@ package com.minzheng.blog.constant;
 /**
  * 公共常量
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/27
  */
 public class CommonConst {

@@ -3,7 +3,7 @@ package com.minzheng.blog.constant;
 /**
  * 操作日志类型常量
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/28
  */
 public class OptTypeConst {

@@ -27,7 +27,7 @@ import static com.minzheng.blog.constant.OptTypeConst.UPDATE;
 /**
  * 博客信息控制器
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/28
  */
 @Api(tags = "博客信息模块")

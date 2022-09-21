@@ -14,7 +14,7 @@ import static com.minzheng.blog.enums.SearchModeEnum.getStrategy;
 /**
  * 搜索策略上下文
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/27
  */
 @Service

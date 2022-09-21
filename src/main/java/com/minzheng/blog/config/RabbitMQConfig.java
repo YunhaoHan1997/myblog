@@ -9,7 +9,7 @@ import static com.minzheng.blog.constant.MQPrefixConst.*;
 /**
  * Rabbitmq配置类
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/29
  */
 @Configuration

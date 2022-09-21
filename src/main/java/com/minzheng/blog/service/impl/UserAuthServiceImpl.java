@@ -47,7 +47,7 @@ import static com.minzheng.blog.util.CommonUtils.getRandomCode;
 /**
  * 用户账号服务
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/08/10
  */
 @Service

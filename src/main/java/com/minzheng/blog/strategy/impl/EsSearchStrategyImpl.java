@@ -24,7 +24,7 @@ import static com.minzheng.blog.enums.ArticleStatusEnum.PUBLIC;
 /**
  * es搜索策略实现
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/27
  */
 @Log4j2

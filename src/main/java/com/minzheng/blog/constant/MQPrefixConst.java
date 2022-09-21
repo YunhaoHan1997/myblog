@@ -4,7 +4,7 @@ package com.minzheng.blog.constant;
  * mqprefix常量
  * mq常量
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/28
  */
 public class MQPrefixConst {

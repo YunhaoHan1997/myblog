@@ -26,7 +26,7 @@ import static com.minzheng.blog.constant.OptTypeConst.SAVE_OR_UPDATE;
 /**
  * 相册控制器
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/08/04
  */
 @Api(tags = "相册模块")

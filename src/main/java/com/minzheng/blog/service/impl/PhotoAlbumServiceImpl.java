@@ -32,7 +32,7 @@ import static com.minzheng.blog.enums.PhotoAlbumStatusEnum.PUBLIC;
 /**
  * 相册服务
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/08/04
  */
 @Service

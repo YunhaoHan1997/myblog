@@ -3,7 +3,7 @@ package com.minzheng.blog.constant;
 /**
  * redis常量
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/27
  */
 public class RedisPrefixConst {

@@ -28,7 +28,7 @@ import static com.minzheng.blog.enums.ZoneEnum.SHANGHAI;
 /**
  * 用户详细信息服务
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/08/10
  */
 @Service

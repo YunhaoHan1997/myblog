@@ -5,7 +5,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 上传策略
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/28
  */
 public interface UploadStrategy {

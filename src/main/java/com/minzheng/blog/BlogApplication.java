@@ -12,7 +12,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * 博客启动类
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/08/14
  */
 @MapperScan("com.minzheng.blog.dao")

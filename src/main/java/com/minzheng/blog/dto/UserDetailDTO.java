@@ -16,7 +16,7 @@ import static com.minzheng.blog.constant.CommonConst.FALSE;
 /**
  * 用户信息
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/08/10
  */
 @Data

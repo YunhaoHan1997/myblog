@@ -22,7 +22,7 @@ import static com.minzheng.blog.constant.OptTypeConst.UPDATE;
 /**
  * 用户信息控制器
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/29
  */
 @Api(tags = "用户信息模块")

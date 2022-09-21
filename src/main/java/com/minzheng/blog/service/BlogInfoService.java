@@ -8,7 +8,7 @@ import com.minzheng.blog.vo.WebsiteConfigVO;
 /**
  * 博客信息服务
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/08/09
  */
 public interface BlogInfoService {

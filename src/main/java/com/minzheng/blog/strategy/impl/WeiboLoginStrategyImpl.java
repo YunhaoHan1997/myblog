@@ -27,7 +27,7 @@ import static com.minzheng.blog.enums.StatusCodeEnum.WEIBO_LOGIN_ERROR;
 /**
  * 微博登录策略实现
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/28
  */
 @Service("weiboLoginStrategyImpl")

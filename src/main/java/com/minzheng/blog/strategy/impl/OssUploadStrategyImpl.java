@@ -11,7 +11,7 @@ import java.io.InputStream;
 /**
  * oss上传策略
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/28
  */
 @Service("ossUploadStrategyImpl")

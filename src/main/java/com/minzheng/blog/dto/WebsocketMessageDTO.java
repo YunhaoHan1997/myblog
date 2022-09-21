@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 /**
  * websocket消息
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/08/01
  */
 @Data

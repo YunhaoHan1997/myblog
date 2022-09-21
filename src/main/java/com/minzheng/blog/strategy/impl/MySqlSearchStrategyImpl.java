@@ -19,7 +19,7 @@ import static com.minzheng.blog.enums.ArticleStatusEnum.PUBLIC;
 /**
  * mysql搜索策略
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/27
  */
 @Service("mySqlSearchStrategyImpl")

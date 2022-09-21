@@ -14,7 +14,7 @@ import java.io.IOException;
 /**
  * 注销处理
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/07/28
  */
 @Component

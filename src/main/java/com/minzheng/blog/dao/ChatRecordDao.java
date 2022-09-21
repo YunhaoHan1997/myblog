@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 /**
  * 聊天记录
  *
- * @author yezhiqiu
+ * @author YunhaoHan
  * @date 2021/08/10
  */
 @Repository

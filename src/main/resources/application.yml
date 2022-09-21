@@ -10,9 +10,9 @@ spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://"ip":3306/blog?serverTimezone=GMT%2B8&allowMultiQueries=true
+    url: jdbc:mysql://101.42.138.84:3306/blog?serverTimezone=GMT%2B8&allowMultiQueries=true
     username: root
-    password: "****"
+    password: hyhak47m16
     hikari:
       minimum-idle: 5
       # 空闲连接存活最大时间，默认600000（10分钟）
@@ -30,12 +30,12 @@ spring:
       connection-test-query: SELECT 1
   # redis配置
   redis:
-    host: "ip"
+    host: 101.42.138.84
     port: 6379
     password: hyhak47m16
   # mq配置
   rabbitmq:
-    host: "ip"
+    host: 101.42.138.84
     port: 5672
     username: guest
     password: guest
@@ -48,7 +48,7 @@ spring:
   # es配置 若搜索模式为mysql可删除
   elasticsearch:
     rest:
-      uris: "ip":9200
+      uris: 101.42.138.84:9200
   # 邮箱配置
   mail:
     host: smtp.qq.com
@@ -85,16 +85,20 @@ upload:
   local:
     # nginx映射本地文件路径，无域名则为 ip:83
 #    url: http://你的文件上传子域名/
-    url: "ip":83
+    url: 101.42.138.84:83
     # 本地文件存储路径
     path: /usr/local/upload/
   oss:
-
+    url: "https://yunhaoha.oss-cn-shanghai.aliyuncs.com/"
+    endpoint: "https://oss-cn-shanghai.aliyuncs.com/"
+    accessKeyId: "LTAI4G1ojJrDxeRZ574ahuTr"
+    accessKeySecret: "FaqLjv5XQBGT0J3wnkqZPSeUS4VFcj"
+    bucketName: "yunhaoha"
 
 # 网站前台域名（邮件通知用）
 website:
 #  url: http://你的主域名或ip
-  url: "ip"
+  url: 101.42.138.84
 
 
 #第三方配置信息
